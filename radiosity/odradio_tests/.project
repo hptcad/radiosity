@@ -3,7 +3,6 @@
 	<name>odradio_tests</name>
 	<comment></comment>
 	<projects>
-		<project>odradio</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
